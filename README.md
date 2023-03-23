@@ -10,9 +10,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-Botan&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gustavo-Botan&repo=Gustavo-Botan)](https://github.com/Gustavo-Botan/Gustavo-Botan)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gustavo-Botan&repo=Gustavo-Botan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Gustavo-Botan/Gustavo-Botan)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-Botan)](https://github.com/Gustavo-Botan/eSolution)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-Botan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Gustavo-Botan/eSolution)
 
 
 ## Tecnologias que eu utilizo no meu dia dia 💻👨‍💻
