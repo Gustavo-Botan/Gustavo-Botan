@@ -10,7 +10,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-Botan&show_icons=true&theme=dark)
-
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gustavo-Botan&repo=Gustavo-Botan)](https://github.com/Gustavo-Botan/Gustavo-Botan)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-Botan)](https://github.com/Gustavo-Botan/eSolution)
