@@ -1,4 +1,5 @@
 
+
 ## Olá, eu sou Gustavo Botan 🤙
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16981290428)
@@ -8,11 +9,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobotan/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Botan&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-Botan&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Botan&repo=Gustavo-Botan)](https://github.com/Gustavo-Botan/Gustavo-Botan)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gustavo-Botan&repo=Gustavo-Botan)](https://github.com/Gustavo-Botan/Gustavo-Botan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Botan)](https://github.com/Gustavo-Botan/eSolution)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-Botan)](https://github.com/Gustavo-Botan/eSolution)
 
 
 ## Tecnologias que eu utilizo no meu dia dia 💻👨‍💻
